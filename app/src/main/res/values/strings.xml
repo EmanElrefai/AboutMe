@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Eman Lotfy</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">\nMy name is Eman.
+        \n\n An Egyptian Muslim pursuing bachelor in communication and computer engineering.
+        \n\n I am studying in faculty of engineering at Alexandria University.
+        \n \n I am always enthusiastic for learning new programming and scripting languages and skills, also teaching them to the others.
+        \n\n My native language is Arabic, But I can handle a conversation in English.  </string>
+    <string name="what_is_your_nick_name">What is your Nickname ?</string>
+    <string name="done">Done</string>
+</resources>
